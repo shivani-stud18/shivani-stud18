@@ -1,4 +1,4 @@
-# Hi, I'm Shivani Kotwal 👋
+# Hi, I'm Shivani 👋
 
 ### React Developer | Frontend Development | Creative Web Experiences
 
